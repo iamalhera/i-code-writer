@@ -5,5 +5,5 @@ We are using localstorage to save the progess made by the user
 
 It is made using React.
 
-[Access this app here](https://i-code-writer-netlify.app)
+[Access this app here](https://i-code-writer.netlify.app)
 
